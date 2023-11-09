@@ -1,0 +1,218 @@
+{
+    "title": "Canoo Studio",
+    "favicon": "./img/logo.png",
+    "sections": {
+      "header": {
+        "logo": "./img/logo.png",
+        "navbar": [
+          { "text": "home", "href": "./index.html" },
+          { "text": "about", "href": "./about.html" },
+          { "text": "rental", "href": "./rental.html" },
+          { "text": "event", "href": "./event.html" },
+          { "text": "review", "href": "./review.html" },
+          { "text": "contact", "href": "./contact.html" },
+          { "text": "galery", "href": "./galery.html" }
+        ],
+        "icons": {
+          "search": "fas fa-search",
+          "cart": "fas fa-shopping-cart",
+          "menu": "fas fa-bars"
+        },
+        "cartItems": [
+          {
+            "imageSrc": "./img/1.png",
+            "name": "Canon EOS M",
+            "price": "Rp.109.000/hari"
+          },
+          {
+            "imageSrc": "./img/2.png",
+            "name": "Canon EOS",
+            "price": "Rp.199.000/hari"
+          },
+          {
+            "imageSrc": "./img/4.png",
+            "name": "Lensa Macro",
+            "price": "Rp.110.000/hari"
+          },
+          {
+            "imageSrc": "./img/6.png",
+            "name": "Lensa Zoom",
+            "price": "Rp.150.000/hari"
+          }
+        ]
+      },
+      "home": {
+        "content": {
+          "title": "Canoo Studio",
+          "description": "Buat momen berharga Anda menjadi lebih indah dengan peralatan terbaik dari Canoo Studio.",
+          "ctaButton": "Dapatkan sekarang"
+        }
+      },
+      "about": {
+        "title": "about us",
+        "content": {
+          "image": "./img/about.png",
+          "heading": "Apa yang membuat Canoo Studio kami istimewa?",
+          "description": [
+            "Kami unggul dalam berbagai hal yang membuatnya istimewa. Kami memiliki komitmen kuat untuk memberikan desain inovatif yang memikat, setiap proyek yang kami kerjakan adalah sebuah karya seni unik.",
+            "Kepuasan pelanggan adalah prioritas utama kami, dan kami selalu berusaha memenuhi kebutuhan dan ekspektasi Anda.",
+            "Tim kami terdiri dari para profesional berpengalaman yang siap memberikan kualitas terbaik dalam setiap proyek. Kami mengutamakan solusi kustom yang sesuai dengan kebutuhan Anda, sambil tetap mengikuti perkembangan teknologi terkini.",
+            "Dengan Canoo Studio, imajinasi tidak memiliki batasan, dan hasil akhir proyek kami selalu mengesankan. Jadi, jika Anda mencari studio desain yang istimewa, Canoo Studio adalah pilihan yang tepat. Hubungi kami sekarang untuk mendiskusikan proyek Anda!"
+          ],
+          "ctaButton": "Home"
+        }
+      },
+      "rental": {
+        "title": "Rental Canoo",
+        "items": [
+          {
+            "imageSrc": "./img/1.png",
+            "name": "Canon EOS",
+            "price": "Rp.199.000/hari"
+          },
+          {
+            "imageSrc": "./img/2.png",
+            "name": "Canon EOS R",
+            "price": "Rp.170.000/hari"
+          },
+          {
+            "imageSrc": "./img/3.png",
+            "name": "Canon IXUS",
+            "price": "Rp.299.000/hari"
+          },
+          {
+            "imageSrc": "./img/4.png",
+            "name": "Lensa Telephoto",
+            "price": "Rp.79.000/hari"
+          },
+          {
+            "imageSrc": "./img/5.png",
+            "name": "Lensa Macro",
+            "price": "Rp.110.000/hari"
+          },
+          {
+            "imageSrc": "./img/6.png",
+            "name": "Lensa Zoom",
+            "price": "Rp.150.000/hari"
+          }
+        ]
+      },
+      "products": {
+        "title": "Event Canoo",
+        "items": [
+          {
+            "imageSrc": "./img/event-1.png",
+            "name": "Familia Portrait",
+            "price": "Rp 500.000 Durasi sesi 1 jam"
+          },
+          {
+            "imageSrc": "./img/event-2.png",
+            "name": "Glamour & Fashion",
+            "price": "Rp 2.000.000 Durasi sesi 3 jam"
+          },
+          {
+            "imageSrc": "./img/event-3.png",
+            "name": "Mastering Your Camera",
+            "price": "Rp 500.000 Durasi 4 jam"
+          }
+        ]
+      },
+      "review": {
+        "title": "Pelanggan Tetap",
+        "items": [
+          {
+            "quoteImage": "./img/quote-img.png",
+            "quote": "Canoo Studio adalah mitra desain yang luar biasa! Mereka tidak hanya memberikan desain yang luar biasa kreatif, tetapi juga sangat memperhatikan kebutuhan dan visi kami. Tim profesional mereka sangat responsif dan selalu siap memberikan solusi terbaik. Hasil akhirnya melebihi ekspektasi kami, dan kami sangat puas dengan kerjasama ini. Kami sangat merekomendasikan Canoo Studio kepada siapa pun yang mencari desain yang istimewa.",
+            "userImage": "./img/pic-1.png",
+            "userName": "A.Mz",
+            "rating": 4.5
+          },
+          {
+            "quoteImage": "./img/quote-img.png",
+            "quote": "Saya sungguh terkesan dengan Canoo Studio! Mereka telah mengubah visi desain saya menjadi kenyataan dengan cara yang mengagumkan. Tim mereka memiliki keahlian yang luar biasa dan selalu siap bekerja keras untuk memastikan kepuasan pelanggan. Saya sangat senang dengan hasil akhir proyek kami, dan saya pasti akan bekerja sama dengan mereka lagi di masa depan.",
+            "userImage": "./img/pic-2.png",
+            "userName": "K.Ayoe.W",
+            "rating": 4.5
+          },
+          {
+            "quoteImage": "./img/quote-img.png",
+            "quote": "Canoo Studio adalah pilihan terbaik untuk proyek desain saya. Mereka tidak hanya menciptakan desain yang menakjubkan, tetapi juga memiliki ketelitian yang tinggi dalam memahami setiap detail. Tim mereka ramah, profesional, dan sangat kolaboratif. Hasil akhirnya melampaui harapan saya, dan saya akan merekomendasikan Canoo Studio kepada siapa pun yang mencari solusi desain berkualitas tinggi.",
+            "userImage": "./img/pic-3.png",
+            "userName": "S.M",
+            "rating": 4.5
+          }
+        ]
+      },
+      "contact": {
+        "title": "contact us",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30153.788252261566!2d72.82321484621745!3d19.141690214227783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b63aceef0c69%3A0x2aa80cf2287dfa3b!2sJogeshwari%20West%2C%20Mumbai%2C%20Maharashtra%20400047!5e0!3m2!1sen!2sin!4v1629452077891!5m2!1sen!2sin",
+        "form": {
+          "heading": "get in touch",
+          "fields": [
+            { "icon": "fas fa-user", "type": "text", "placeholder": "name" },
+            { "icon": "fas fa-envelope", "type": "email", "placeholder": "email" },
+            { "icon": "fas fa-phone", "type": "number", "placeholder": "number" }
+          ],
+          "submitButton": "contact now"
+        }
+      },
+      "blogs": {
+        "title": "galery kita",
+        "items": [
+          {
+            "imageSrc": "./img/galery-1.png",
+            "title": "Keluarga Hati yang Tersenyum",
+            "category": "Family",
+            "description": "Kisah Cinta yang Diceritakan dalam Senyuman.",
+            "readMoreButton": "read more"
+          },
+          {
+            "imageSrc": "./img/galery-2.png",
+            "title": "Keindahan dalam Setiap Frame",
+            "category": "Photo Family",
+            "description": "Dalam galeri kami, Anda akan menemukan ekspresi yang tulus dalam setiap gambar.",
+            "readMoreButton": "read more"
+          },
+          {
+            "imageSrc": "./img/galery-3.png",
+            "title": "Kisah Cinta yang Terabadikan",
+            "category": "Prewedding",
+            "description": "Mereka telah menangkap momen yang penuh keintiman dalam setiap foto.",
+            "readMoreButton": "read more"
+          }
+        ]
+      },
+      "footer": {
+        "socialLinks": {
+          "facebook": "fab fa-facebook-f",
+          "twitter": "fab fa-twitter",
+          "instagram": "fab fa-instagram",
+          "linkedin": "fab fa-linkedin",
+          "pinterest": "fab fa-pinterest"
+        },
+        "footerLinks": [
+          { "text": "home", "href": "./index.html" },
+          { "text": "about", "href": "./about.html" },
+          { "text": "rental", "href": "./rental.html" },
+          { "text": "event", "href": "./event.html" },
+          { "text": "review", "href": "./review.html" },
+          { "text": "contact", "href": "./contact.html" },
+          { "text": "galery", "href": "./galery.html" }
+        ],
+        "credit": "created by Canoo Studio | all rights reserved"
+      }
+    },
+    "scripts": [
+      "./js/main.js",
+      "https://code.jquery.com/jquery-3.4.1.min.js",
+      "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js",
+      "./lib/easing/easing.min.js",
+      "./lib/waypoints/waypoints.min.js",
+      "./lib/waypoints/waypoints.min.js",
+      "./lib/counterup/counterup.min.js",
+      "./lib/owlcarousel/owl.carousel.min.js",
+      "mail/jqBootstrapValidation.min.js",
+      "mail/contact.js"
+    ]
+  }
+  

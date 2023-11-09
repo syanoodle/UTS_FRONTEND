@@ -1,0 +1,43 @@
+{
+  "rental": {
+    "heading": "menu kita",
+    "items": [
+      {
+        "imageSrc": "./img/1.png",
+        "name": "Canon EOS",
+        "price": "Rp.199.000/hari",
+        "buttonText": "sewa"
+      },
+      {
+        "imageSrc": "./img/2.png",
+        "name": "Canon EOS R",
+        "price": "Rp.170.000/hari",
+        "buttonText": "sewa"
+      },
+      {
+        "imageSrc": "./img/3.png",
+        "name": "Canon IXUS",
+        "price": "Rp.299.000/hari",
+        "buttonText": "sewa"
+      },
+      {
+        "imageSrc": "./img/4.png",
+        "name": "Lensa Telephoto",
+        "price": "Rp.79.000/hari",
+        "buttonText": "sewa"
+      },
+      {
+        "imageSrc": "./img/5.png",
+        "name": "Lensa Macro",
+        "price": "Rp.110.000/hari",
+        "buttonText": "sewa"
+      },
+      {
+        "imageSrc": "./img/6.png",
+        "name": "Lensa Zoom",
+        "price": "Rp.150.000/hari",
+        "buttonText": "sewa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "event": {
+    "heading": "event canoo",
+    "items": [
+      {
+        "imageSrc": "./img/event.html-1.png",
+        "name": "Familia Portrait",
+        "stars": "4.5",
+        "price": "Rp 500.000",
+        "duration": "Durasi sesi 1 jam"
+      },
+      {
+        "imageSrc": "./img/event.html-2.png",
+        "name": "Glamour & Fashion",
+        "stars": "4.5",
+        "price": "Rp 2.000.000",
+        "duration": "Durasi sesi 3 jam"
+      },
+      {
+        "imageSrc": "./img/event.html-3.png",
+        "name": "Mastering Your Camera",
+        "stars": "4.5",
+        "price": "Rp 500.000",
+        "duration": "Durasi 4 jam"
+      }
+    ]
+  }
+}

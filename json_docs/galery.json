@@ -1,0 +1,25 @@
+{
+  "galery": {
+    "heading": "galery canoo",
+    "items": [
+      {
+        "imageSrc": "./img/galery-1.png",
+        "title": "Keluarga Hati yang Tersenyum",
+        "category": "Family",
+        "description": "Kisah Cinta yang Diceritakan dalam Senyuman."
+      },
+      {
+        "imageSrc": "./img/galery-2.png",
+        "title": "Keindahan dalam Setiap Frame",
+        "category": "Photo Family",
+        "description": "Dalam galeri kami, Anda akan menemukan ekspresi yang tulus dalam setiap gambar."
+      },
+      {
+        "imageSrc": "./img/galery-3.png",
+        "title": "Kisah Cinta yang Terabadikan",
+        "category": "Prewedding",
+        "description": "Mereka telah menangkap momen yang penuh keintiman dalam setiap foto."
+      }
+    ]
+  }
+}
